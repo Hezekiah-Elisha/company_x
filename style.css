@@ -1,0 +1,40 @@
+*{
+  box-sizing:  border-box;
+  font-family: cursive;
+}
+
+body{
+  background-color: #A8CCD7;
+
+}
+
+h1{
+  font-family: fantasy;
+}
+
+.login{
+  text-align: center;
+  background-image: linear-gradient(135deg,#83a6b0,#a8ccd7);
+  margin: 20vh auto;
+  width: 40vw;
+  border-radius: 3.5px;
+  box-shadow:  0 20 20px 0 #b5d9e4;
+}
+
+.login form{
+  /* display: flex; */
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.register{
+  text-align: center;
+  background-image: linear-gradient(135deg,#83a6b0,#a8ccd7);
+  margin: 20vh auto;
+  width: 40vw;
+  border-radius: 3.5px;
+  box-shadow: #b5d9e4 0 0 9 0;
+  padding: 5px;
+}
