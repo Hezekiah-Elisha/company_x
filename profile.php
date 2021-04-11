@@ -33,6 +33,7 @@
    <head>
      <meta charset="utf-8">
      <title>Profile Info</title>
+     <link rel="stylesheet" href="style.css">
    </head>
    <body class="loggedin">
      <nav class="navtop">
